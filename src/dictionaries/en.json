@@ -1,0 +1,39 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Bayan Window for Air Conditioning",
+    "subtitle": "We care for your comfort with premium AC maintenance and efficient installation.",
+    "cta": "Get a Free Estimate"
+  },
+  "services": {
+    "title": "Our Services",
+    "items": [
+      { "title": "AC Installation", "desc": "Professional air conditioning installation." },
+      { "title": "Professional Maintenance", "desc": "Expert AC maintenance services." },
+      { "title": "AC Washing", "desc": "Deep cleaning for all AC types." },
+      { "title": "Moving & Installation", "desc": "Safe relocation and reinstallation of ACs." },
+      { "title": "Emergency Repair", "desc": "24/7 fast and reliable emergency repairs." },
+      { "title": "Consulting Services", "desc": "Expert advice on AC solutions." }
+    ]
+  },
+  "about": {
+    "title": "About Us",
+    "features": [
+      { "title": "Expert Technicians", "desc": "Highly trained and certified professionals." },
+      { "title": "Long Experience", "desc": "Decades of experience in cooling solutions." },
+      { "title": "Quality Details", "desc": "We pay attention to every detail for your comfort." }
+    ]
+  },
+  "cta": {
+    "title": "Ready for a refreshing environment?",
+    "button": "Book an Appointment Now"
+  },
+  "footer": {
+    "rights": "© 2026 Bayan Window. All rights reserved."
+  }
+}
